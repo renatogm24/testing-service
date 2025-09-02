@@ -3,7 +3,7 @@ payment:
   cards:
     - name: visa
       description: "Prod Visa Card"
-      limit: 3200
+      limit: 3500
     - name: amex
       description: "Prod Amex Card"
       limit: 1600
