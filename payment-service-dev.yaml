@@ -1,9 +1,9 @@
 payment:
-  provider: amex
+  provider: visa
   cards:
     - name: visa
       description: "Dev Visa Card"
-      limit: 55000000
+      limit: 999999
     - name: amex
       description: "Dev Amex Card"
       limit: 16000000
