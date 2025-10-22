@@ -1,0 +1,9 @@
+payment:
+  provider: visa
+  cards:
+    - name: visa
+      description: "Default Visa Card"
+      limit: 10
+    - name: amex
+      description: "Default Amex Card"
+      limit: 20
